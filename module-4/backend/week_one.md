@@ -47,3 +47,4 @@ and displays the right view to the user.
 > Background workers are tasks that we can program to run at certain time after an action has been performed, 
 it can also be setup to perform immediately after an action. 
 We can set them up anytime we have a repetitive or common tasks in our app.
+
