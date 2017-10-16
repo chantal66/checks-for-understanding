@@ -28,7 +28,6 @@ We use it specially with event handlers.
 #### Review  
 
 10. Why do people say "HTTP is stateless"?
-<<<<<<< HEAD
 >* Servers don't retain the state of your interaction with the page. 
 We usually have to store some session or cookie data to tell the server what state we are in.
 11. Describe a RESTful API.
